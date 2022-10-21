@@ -28,6 +28,8 @@ nav {
     position: sticky;
     background: white;
     padding: 10px;
+    margin-bottom: 32px;
+
 }           
 .navigation{
     display: flex;
@@ -49,7 +51,6 @@ nav {
     justify-content: center;
     gap: 100px;
     align-items: center;
-    margin-top: 32px;
 }
 .hero_content{
     display: flex;
